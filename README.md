@@ -2,8 +2,8 @@
 
 **Intrduction**
 
-- I'm currently working in Zhito as SLAM algorithm intern.
-- I'm curretnly studing in AIA, HUST, Wuhan, China.  
+- I'm currently working in Zhito, Shanghai as an SLAM algorithm intern.
+- I'm curretnly studing for a B.Eng degree in [AIA](http://english.aia.hust.edu.cn/), [HUST](http://english.hust.edu.cn/), Wuhan, China.  
 - I'm currently working on SLAM & deep learning. 
 - I'm currently learning NLP, HPC & distributed system. 
 - Language mainly used : C++, Python.
