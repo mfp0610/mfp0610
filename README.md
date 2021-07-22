@@ -1,6 +1,6 @@
 ### Hi there 👋 I am AnonM
 
-** About me**
+**Intrduction**
 
 - I'm currently working in Zhito as SLAM algorithm intern.
 - I'm curretnly studing in AIA, HUST, Wuhan, China.  
