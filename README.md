@@ -1,19 +1,20 @@
 ### Hi there 👋 I am AnonM
 
-<!--
-**mfp0610/mfp0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** About me**
 
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on SLAM & deep learning. 
-- 🌱 I’m currently learning NLP, HPC & distributed system. 
-- 📫 How to reach me: mfp-0610 (Wechat)
+- I'm currently working in Zhito as SLAM algorithm intern.
+- I'm curretnly studing in AIA, HUST, Wuhan, China.  
+- I'm currently working on SLAM & deep learning. 
+- I'm currently learning NLP, HPC & distributed system. 
+- Mainly used language : C++, Python.
+- Reach me at my Wechat : mfp-0610.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+**Detail**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfp0610)
 
