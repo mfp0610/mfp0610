@@ -6,10 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfp0610)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfp0610)
-
 - 🔭 I’m currently working on SLAM & deep learning. 
 - 🌱 I’m currently learning NLP, HPC & distributed system. 
 - 📫 How to reach me: mfp-0610 (Wechat)
@@ -18,3 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfp0610)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfp0610)
