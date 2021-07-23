@@ -18,8 +18,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfp0610)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfp0610)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfp0610&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfp0610&layout=compact)
 
 <!-- &hide=javascript,html -->
