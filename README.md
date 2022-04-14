@@ -4,7 +4,6 @@
 
 <!-- - I'm currently working. -->
 - I'm curretnly studing for a B.Eng degree in [AIA](http://english.aia.hust.edu.cn/), [HUST](http://english.hust.edu.cn/), Wuhan, China.  
-- I'm currently working on SLAM & deep learning. 
 - I'm working in CFCS, Peiking University as a research assistant.
 - I once worked in Zhito as a SLAM algorithm intern.
 - I'm currently working on SLAM & deep learning. 
