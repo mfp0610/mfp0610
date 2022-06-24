@@ -3,11 +3,11 @@
 **Intrduction**
 
 <!-- - I'm currently working. -->
-- I'm curretnly studing for a B.Eng degree in [AIA](http://english.aia.hust.edu.cn/), [HUST](http://english.hust.edu.cn/), Wuhan, China.  
-- I'm working in CFCS, Peiking University as a research assistant.
+- I'm curretnly studing for a B.Eng. degree in [AIA](http://english.aia.hust.edu.cn/), [HUST](http://english.hust.edu.cn/), Wuhan, China.  
+- I'm working in CFCS, Peiking University as a RA.
 - I once worked in Zhito as a SLAM algorithm intern.
 - I'm currently working on SLAM & deep learning. 
-- Language mainly used : C++, Python.
+- Language mainly used : Python, C++.
 - Reach me at my Wechat : mfp-0610.
 <!-- - I'm currently learning HPC & distributed system. -->
 <!-- - 👯 I’m looking to collaborate on ...
