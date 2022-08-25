@@ -3,7 +3,7 @@
 **Intrduction**
 
 <!-- - I'm currently working. -->
-- I'm curretnly studing for a B.Eng. degree in [AIA](http://english.aia.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/), Wuhan, China.  
+- I'm curretnly studing for a B.Eng. degree at [Huazhong University of Science and Technology](http://english.hust.edu.cn/), Wuhan, China.  
 - I'm working in [EPIC-LAB](https://pku-epic.github.io/), [CFCS](https://cfcs.pku.edu.cn/english/), [Peking University](https://english.pku.edu.cn/) as a research assistant.
 - I once worked in Suzhou Zhito Tech. as a vision algorithm intern.
 - I'm currently working on 3d vision & robotics, especially on active 3d scene understanding. 
