@@ -6,7 +6,7 @@
 - I'm curretnly studing for a B.Eng. degree at [Huazhong University of Science and Technology](http://english.hust.edu.cn/), Wuhan, China.  
 - I'm working in [EPIC-LAB](https://pku-epic.github.io/), [CFCS](https://cfcs.pku.edu.cn/english/), [Peking University](https://english.pku.edu.cn/) as a research assistant.
 - I once worked in Suzhou Zhito Tech. as a vision algorithm intern.
-- I'm currently working on 3d vision & robotics, especially on active 3d scene understanding. 
+- I'm currently working on **3D Vision & robotics**, especially on **Active 3D Scene Understanding**. 
 - Language mainly used : Python, C/C++.
 - Reach me at my Wechat : mfp-0610.
 <!-- - I'm currently learning HPC & distributed system. -->
