@@ -5,7 +5,6 @@
 <!-- - I'm currently working. -->
 - I'm studying for an M.Phil. degree at [the Chinese University of Hong Kong, Shenzhen]), Shenzhen, China.
 - I have obtained my B.Eng. degree in Automation at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2023. 
-<!-- - I'm working in Image and Video Understanding Lab, KAUST as a research intern.-->
 - I once worked at Peking University as a research intern; Suzhou Zhito Tech. as a vision algorithm intern.
 - I'm currently working on **3D Vision & Robotics**. 
 - Language mainly used: Python, C/C++.
