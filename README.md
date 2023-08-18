@@ -1,14 +1,15 @@
 ### Hi there 👋 I am Fanpeng Meng (孟繁鹏)
 
-**Intrduction**
+**Introduction**
 
 <!-- - I'm currently working. -->
-- I'm curretnly studing for a B.Eng. degree at [Huazhong University of Science and Technology](http://english.hust.edu.cn/), Wuhan, China.  
-- I'm working in Image and Video Understanding Lab, KAUST as a research intern.
-- I once worked in Peking University as a research intern, Suzhou Zhito Tech. as a vision algorithm intern.
+- I'm studying for an M.Phil. degree at [the Chinese University of Hong Kong, Shenzhen]), Shenzhen, China.
+- I have obtained my B.Eng. degree in Automation at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2023. 
+<!-- - I'm working in Image and Video Understanding Lab, KAUST as a research intern.-->
+- I once worked at Peking University as a research intern; Suzhou Zhito Tech. as a vision algorithm intern.
 - I'm currently working on **3D Vision & Robotics**. 
-- Language mainly used : Python, C/C++.
-- Reach me at my Wechat : mfp-0610.
+- Language mainly used: Python, C/C++.
+- Reach me at my WeChat: mfp-0610.
 <!-- - I'm currently learning HPC & distributed system. -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
